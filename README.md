@@ -4,10 +4,10 @@
 This project presents a low-cost, real-time air quality monitoring system designed to detect hazardous gases such as LPG, methane (CH₄), carbon monoxide (CO), smoke, and carbon dioxide (CO₂).
 
 ## Team Members
-- NAVEEN KUMAR S (611223114064)
-- SRIKAVIN S (611223114101)
-- SABARISH M (611223114081)
-- RITHIK P (611223114078)
+- SABARISH M
+- NAVEEN KUMAR S 
+- SRIKAVIN S 
+- RITHIK P 
 
 ## Institution
 Knowledge Institute of Technology, Salem  
